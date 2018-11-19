@@ -26,7 +26,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'Flask>=0.8',
-        'redis>=2.7.6',
+        'redis==2.10.6',
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
